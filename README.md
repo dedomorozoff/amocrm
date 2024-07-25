@@ -7,7 +7,7 @@
 ## Установка
 
 ```go
-go get -u github.com/lobz1g/amocrm
+go get -u github.com/dedomorozoff/amocrm
 ```
 
 ## Примеры работы
